@@ -1,6 +1,6 @@
 ### Hi! I'm NatholDallas.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=natholdallas&show_icons=true&theme=vue-dark" alt="natholdallas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=natholdallas&show_icons=true&theme=vue-dark&layout=compact" alt="natholdallas" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=natholdallas&show_icons=true&theme=vue-dark" alt="natholdallas" />
 
